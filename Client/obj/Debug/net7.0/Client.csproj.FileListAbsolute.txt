@@ -1,0 +1,15 @@
+C:\lessons\ClientServer\Client\bin\Debug\net7.0\Client.exe
+C:\lessons\ClientServer\Client\bin\Debug\net7.0\Client.deps.json
+C:\lessons\ClientServer\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+C:\lessons\ClientServer\Client\bin\Debug\net7.0\Client.dll
+C:\lessons\ClientServer\Client\bin\Debug\net7.0\Client.pdb
+C:\lessons\ClientServer\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+C:\lessons\ClientServer\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\lessons\ClientServer\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\lessons\ClientServer\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\lessons\ClientServer\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\lessons\ClientServer\Client\obj\Debug\net7.0\Client.dll
+C:\lessons\ClientServer\Client\obj\Debug\net7.0\refint\Client.dll
+C:\lessons\ClientServer\Client\obj\Debug\net7.0\Client.pdb
+C:\lessons\ClientServer\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+C:\lessons\ClientServer\Client\obj\Debug\net7.0\ref\Client.dll
